@@ -98,8 +98,7 @@ Uso de Streams e List
 
 Clone o repositório:
 
-git clone https://github.com/GabrielBarbosa21/estudos.git
-
+https://github.com/GabrielBarbosa21/java-estudos/edit/main/projects/sistema-employee/src/main/java/br/com/gabriel/sistema-employee/README.md
 
 Abra o projeto no Eclipse ou outra IDE Java.
 
