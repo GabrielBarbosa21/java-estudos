@@ -20,4 +20,4 @@ Em evolução contínua 🚀
 
 ## 📎 Autor
 Gabriel Barbosa  
-🔗 LinkedIn: [seu link]
+🔗 LinkedIn: www.linkedin.com/in/gabriel-barbosa-290340264
