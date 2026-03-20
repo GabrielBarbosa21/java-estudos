@@ -1,12 +1,23 @@
-# Java Estudos
+# ☕ Java Estudos - Gabriel Barbosa
 
-Repositório com projetos desenvolvidos durante meus estudos em Java.
+🚀 Repositório com projetos desenvolvidos durante minha evolução em Java.
 
-## Estrutura
+## 📚 Conteúdos abordados
+- Estruturas condicionais e repetição
+- Programação Orientada a Objetos (POO)
+- Encapsulamento e construtores
+- Manipulação de dados
 
-- `projects/` → projetos desenvolvidos durante o aprendizado
+## 💻 Projetos em destaque
+### 🔹 Sistema de Funcionários
+Sistema simples em Java com funcionalidades de cadastro e gerenciamento.
 
-## Tecnologias
+## 🎯 Objetivo
+Desenvolver uma base sólida em Java para atuar como desenvolvedor back-end.
 
-- Java
-- Programação Orientada a Objetos
+## 📈 Status
+Em evolução contínua 🚀
+
+## 📎 Autor
+Gabriel Barbosa  
+🔗 LinkedIn: [seu link]
